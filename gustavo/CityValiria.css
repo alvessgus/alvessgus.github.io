@@ -1,0 +1,66 @@
+        ul {
+            list-style-type: circle; /* Marcador de círculo vazio */
+}
+        figure {
+            float: right;
+            margin-left: 15px; /* Espaçamento entre a imagem e o texto à esquerda */
+            margin-bottom: 10px;
+}
+        figcaption {
+            text-align: center; /* Centraliza o texto da legenda */
+            font-size: 12px; /* Diminui o tamanho da fonte */
+            color: #555; /* Cor opcional para diferenciar */
+            margin-top: 0px; /* Espaçamento entre a imagem e a legenda */
+}
+
+        body {
+            font-family:"Bebas Neue", system-ui;
+            font-weight: 400;
+            font-style: normal;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+}
+
+        header {
+            background-color: #070707;
+            color: #fdfdfc;
+            padding: 20px 0;
+            text-align: center;
+}
+
+        header h1 {
+            margin: 0;
+            display: block;
+            font-family: "Jacquarda Bastarda 9", serif;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 50px
+}
+        .text {
+            text-align: justify;
+            text-indent: 50px;
+}
+        h2 {
+            text-align: center;
+}
+        li {
+            margin: 20px;
+}
+        .Links {
+            cursor: pointer;
+}
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+            margin-top: 40px;
+            clear: both;
+}
+      

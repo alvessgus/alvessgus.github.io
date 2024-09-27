@@ -1,0 +1,49 @@
+
+
+h1, h2 {
+    font-weight: 700; 
+    align-items: center;
+}
+
+body {
+    font-family: 'Cinzel', serif;
+    color: #A67C3C;
+    /* background-color: #000; */
+    margin: 20px;
+    line-height: 1.6;
+}
+
+.link {
+    color: white; 
+    margin: 0 15px;
+    text-align: center
+}
+
+header {
+    text-align: center;
+    background-color: #A67C3C;
+    color:white;
+    padding: 10px;
+}
+
+main {
+    padding: 20px;
+}
+.Texto {
+    text-align: justify; 
+    margin: 25px;
+}
+
+img {
+    max-width: 100px; /* Largura máxima da imagem aumentada */
+    height: auto; /* Mantém a proporção da imagem */
+}
+footer {
+    background-color: black;
+    color: #A67C3C;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
